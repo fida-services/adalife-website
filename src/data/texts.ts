@@ -4,13 +4,13 @@ import risk from 'assets/images/risk.svg';
 
 // welcome section
 const welcomeTexts = {
-  description: 'Discover a way to invest in assets uncorrelated to the financial markets.',
-  title: 'Opportunity meet Risk.',
+  description: 'Discover what life insurance can look like on web3.',
+  title: 'Life Insurance for Everyone.',
 };
 
 const welcomeHeroCard = {
-  description: 'Build an insurance asset portfolio based on your risk appetite.',
-  title: 'Fida Marketplace',
+  description: 'Life insurance.',
+  title: 'AdaLife',
   button: {
     label: 'Discover',
     link: '#marketplace',
@@ -21,8 +21,8 @@ const welcomeCards = {
   card1: {
     buttonLabel: 'Learn more',
     buttonLink: '#howItWorks',
-    description: 'Include Fida Cards into your portfolio to receive gains from insurance premiums.',
-    title: 'Expand your investors portfolio'
+    description: 'Include AdaLife into your portfolio to receive gains from insurance premiums.',
+    title: 'Secure your future'
   },
   card2: {
     description: 'Launch Policies',
@@ -58,10 +58,10 @@ const missionCards = [
     description: "Ensuring comprehensive coverage for global emerging risks by redefining how risk is transferred is a financial, social, and moral imperative. Using catastrophe insurance as an example: even though climate catastrophes has surged ninefold, a staggering 66% of these losses remain uncovered by the insurance sector. This glaring protection gap is not unique to climate insurance. However, it highlights the impact of industry's capital constraints on people’s lives. The industry is struggling to adapt. It is losing its access to capital to newer financial services.",
     imageSrc: diagram,
     subtitle: 'The insurance industry is failing to cover customers',
-    title: "Fida's mission is clear: to fill the protection gap!"
+    title: "ADA Life will help you protect those around you"
   },
   {
-    description: 'By eliminating trade friction, Fida restores essential liquidity, facilitating real-time optimization of investor portfolios. This strategic advantage empowers risk mitigation on an unprecedented scale.',
+    description: 'Lorem Ipsum.',
     imageSrc: flag,
     isReversed: true,
     isRoseText: true,
